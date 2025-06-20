@@ -14,12 +14,7 @@ Notebook thực hiện các bước sau:
 6.	Vẽ biểu đồ so sánh giữa giá trị thực tế và giá trị dự đoán.
 ## Yêu cầu môi trường
 -	Python 3.7 trở lên
--	Các thư viện cần thiết:
-o	numpy
-o	pandas
-o	matplotlib
-o	seaborn
-o	scikit-learn
+-	Các thư viện cần thiết: numpy, pandas, matplotlib, seaborn, scikit-learn
 ## Cài đặt thư viện
 Nếu chưa có môi trường, bạn có thể cài đặt bằng lệnh:
 pip install numpy pandas matplotlib seaborn scikit-learn
