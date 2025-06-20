@@ -29,6 +29,3 @@ Hướng dẫn sử dụng
 3.	Quan sát đầu ra và biểu đồ tại từng bước để hiểu rõ quá trình huấn luyện và đánh giá mô hình.
 Kết quả
 Mô hình hồi quy tuyến tính đã được huấn luyện thành công và cho kết quả khả quan trên tập dữ liệu kiểm thử, thể hiện qua chỉ số R² và trực quan hóa dữ liệu phù hợp.
-
-![image](https://github.com/user-attachments/assets/336e659a-09d5-4376-8a53-c59ac7791aa1)
-
