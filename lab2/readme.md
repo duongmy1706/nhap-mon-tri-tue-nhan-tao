@@ -1,6 +1,3 @@
-# P-HUBcode
-P-HUBcode là một dự án mô phỏng và so sánh hai thuật toán duyệt đồ thị phổ biến:  
-**BFS (Breadth-First Search)** và **DFS (Depth-First Search)**.
 
 ## Công nghệ sử dụng
 - **Ngôn ngữ**: Python 3.x  
