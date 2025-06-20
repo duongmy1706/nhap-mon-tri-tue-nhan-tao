@@ -1,9 +1,9 @@
 # **Lab 3: Hồi quy tuyến tính với dữ liệu thực tế**
 ## Mục tiêu
-•	Hiểu rõ cách hoạt động của mô hình hồi quy tuyến tính.
-•	Ứng dụng thư viện scikit-learn để xây dựng mô hình dự đoán.
-•	Trực quan hóa dữ liệu và kết quả mô hình.
-•	Phân tích hiệu năng mô hình qua các chỉ số đánh giá.
+- Hiểu rõ cách hoạt động của mô hình hồi quy tuyến tính.
+- Ứng dụng thư viện scikit-learn để xây dựng mô hình dự đoán.
+-	Trực quan hóa dữ liệu và kết quả mô hình.
+-	Phân tích hiệu năng mô hình qua các chỉ số đánh giá.
 ## Nội dung chính
 Notebook thực hiện các bước sau:
 1.	Tiền xử lý dữ liệu đầu vào bằng pandas và numpy.
