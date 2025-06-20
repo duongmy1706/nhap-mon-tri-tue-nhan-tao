@@ -13,8 +13,8 @@ Notebook thực hiện các bước sau:
 5.	Tính toán và hiển thị các chỉ số như: sai số trung bình (MAE), MSE, R².
 6.	Vẽ biểu đồ so sánh giữa giá trị thực tế và giá trị dự đoán.
 ## Yêu cầu môi trường
-•	Python 3.7 trở lên
-•	Các thư viện cần thiết:
+-	Python 3.7 trở lên
+-	Các thư viện cần thiết:
 o	numpy
 o	pandas
 o	matplotlib
