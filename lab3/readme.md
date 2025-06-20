@@ -1,4 +1,4 @@
-# **Lab 3: ARTIFICIAL INTELLIGENCE**
+# **LAB 3: ARTIFICIAL INTELLIGENCE**
 ## Mục tiêu
 - Hiểu rõ cách hoạt động của mô hình hồi quy tuyến tính.
 - Ứng dụng thư viện scikit-learn để xây dựng mô hình dự đoán.
